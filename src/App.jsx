@@ -4,7 +4,7 @@ const prankResults = [
   { 
     title: "SELAMAT! 🎉", 
     text: "Kamu resmi diterima sebagai anggota Multimedia.", 
-    detail: "Posisi: CEO Divisi Multimedia" 
+    detail: "Posisi: penonton setia karya multimedia" 
   }, 
   { 
     title: "HASIL SELEKSI", 
