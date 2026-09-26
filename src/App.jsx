@@ -105,7 +105,7 @@ function App() {
           <p className="result-text"> {result.text} </p> 
           <div className="result-detail"> {result.detail} </div> 
           <div className="result-divider"></div> 
-          <p className="prank-message"><strong>Selamat!</strong> <br /> Kamu baru saja kena prank wkwk, serius amat bang </p> 
+          <p className="prank-message"><strong>Selamat!</strong> <br /> Kamu baru saja kena prank wkwk, serius amat bang, btw jgn lupa follow @haikaru_27 </p> 
           <button className="back-button" onClick={reset} > ← KEMBALI KE PORTAL </button> 
         </div> 
       </section> )} <footer> © 2026 Multimedia Selection Portal · All Rights Reserved </footer> </main> ); 
