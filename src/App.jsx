@@ -9,12 +9,12 @@ const prankResults = [
   { 
     title: "HASIL SELEKSI", 
     text: "Nama kamu berhasil ditemukan di database.", 
-    detail: "Namun sistem menetapkan kamu sebagai Penanggung Jawab Konsumsi." 
+    detail: "Kamu berhasil masuk multimedia seteleh menguras lautan" 
   }, 
   { 
     title: "CONGRATULATIONS!", 
     text: "Kamu lolos seleksi Multimedia.", 
-    detail: "Jabatan: Spesialis Pencet Tombol Power Projector" 
+    detail: "Kamu menjabat sebagai ketua parkir" 
   }, 
   { 
     title: "DATA DITEMUKAN.", 
